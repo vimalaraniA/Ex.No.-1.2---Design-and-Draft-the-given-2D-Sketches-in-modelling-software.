@@ -1,5 +1,5 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-DATE:13/10/2023
+## DATE:13/10/2023
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
